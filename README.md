@@ -4,7 +4,7 @@
   <a href="https://github.com/Murillopy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Murillopy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillopy&layout=compact&langs_count=7&theme=tokyonight"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Murillopy=anuraghazra&theme=dark&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?Murillopy=anuraghazra&theme=dark&show_icons=true"/>
  </div>
   <!-- Painel de Linguagem -->
   

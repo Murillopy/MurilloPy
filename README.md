@@ -2,7 +2,7 @@
   <!-- Painel de Linguagem -->
 <div align="center">
   <a href="https://github.com/Murillopy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloPy&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloPy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloPy&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <!-- Painel de Linguagem -->

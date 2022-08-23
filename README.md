@@ -12,10 +12,18 @@
   <img align="center" alt="Murillo-HTML" height="38" width="40" src="https://icongr.am/devicon/html5-original.svg?color=currentColor">
   <img align="center" alt="Murillo-CSS" height="38" width="40" src="https://icongr.am/devicon/css3-original.svg?color=currentColor">
   <img align="center" alt="Murillo-JavaScript" height="38" width="40" src="https://icongr.am/devicon/javascript-original.svg?color=currentColor">
+  <img align="center" alt="Murillo-Typescript" height="38" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-Nodejs" height="38" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-Angular.js" height="38" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-VUE" height="38" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-JQuery" height="38" width="40" src="https://icongr.am/devicon/jquery-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-React" height="38" width="40"  src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Murillo-Python" height="38" width="40" src="https://icongr.am/devicon/python-original.svg?color=currentColor">
   <img align="center" alt="Murillo-Ruby" height="38" width="40" src="https://icongr.am/devicon/ruby-original.svg?color=currentColor">
+  <img align="center" alt="Murillo-C" height="38" width="40" src="https://icongr.am/devicon/c-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-C++" height="38" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?color=currentColor">
+  <img align="center" alt="Murillo-C#" height="38" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-Java" height="38" width="40" src="https://icongr.am/devicon/java-original.svg?color=currentColor">
   <img align="center" alt="Murillo-Git" height="38" width="40" src="https://icongr.am/devicon/git-original.svg?color=currentColor">
  </div>

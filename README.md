@@ -9,11 +9,12 @@
   
   <!-- Linguagens Favorita -->
  <div style="display: inline_block"><br>
+   
   <img align="center" alt="Murillo-HTML" height="38" width="40" src="https://icongr.am/devicon/html5-original.svg?color=currentColor">
   <img align="center" alt="Murillo-CSS" height="38" width="40" src="https://icongr.am/devicon/css3-original.svg?color=currentColor">
   <img align="center" alt="Murillo-JavaScript" height="38" width="40" src="https://icongr.am/devicon/javascript-original.svg?color=currentColor">
   <img align="center" alt="Murillo-Typescript" height="38" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
-  <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://i.ibb.co/8c9fmKJ/o-que-php.png">
   <img align="center" alt="Murillo-Nodejs" height="38" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-Angular.js" height="38" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-VUE" height="38" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=40&color=currentColor">

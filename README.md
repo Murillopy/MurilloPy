@@ -16,7 +16,7 @@
   <img align="center" alt="Murillo-CSS" height="38" width="40" src="https://icongr.am/devicon/css3-original.svg?color=currentColor">
   <img align="center" alt="Murillo-JavaScript" height="38" width="40" src="https://icongr.am/devicon/javascript-original.svg?color=currentColor">
   <img align="center" alt="Murillo-Typescript" height="38" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
-  <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://i.ibb.co/8c9fmKJ/o-que-php.png">
+  <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://i.ibb.co/ykSnqMd/oie-transparent-23.png">
   <img align="center" alt="Murillo-Nodejs" height="38" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-React" height="38" width="40"  src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Murillo-Python" height="38" width="40" src="https://icongr.am/devicon/python-original.svg?color=currentColor">

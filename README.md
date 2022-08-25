@@ -1,5 +1,7 @@
 
-  <!-- Painel de Linguagem -->
+ ##
+
+ <!-- Painel de Linguagem -->
 <div align="center">
   <a href="https://github.com/Murillopy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloPy&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
@@ -16,13 +18,9 @@
   <img align="center" alt="Murillo-Typescript" height="38" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://i.ibb.co/8c9fmKJ/o-que-php.png">
   <img align="center" alt="Murillo-Nodejs" height="38" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
-  
- 
-  <img align="center" alt="Murillo-JQuery" height="38" width="40" src="https://icongr.am/devicon/jquery-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-React" height="38" width="40"  src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Murillo-Python" height="38" width="40" src="https://icongr.am/devicon/python-original.svg?color=currentColor">
-  <img align="center" alt="Murillo-Ruby" height="38" width="40" src="https://icongr.am/devicon/ruby-original.svg?color=currentColor">
-  <img align="center" alt="Murillo-C" height="38" width="40" src="https://icongr.am/devicon/c-original.svg?size=40&color=currentColor">
+  <img align="center" alt="Murillo-Ruby" height="38" width="40" src="https://icongr.am/devicon/ruby-original.svg?color=currentColor"> 
   <img align="center" alt="Murillo-C++" height="38" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?color=currentColor">
   <img align="center" alt="Murillo-C#" height="38" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor">
   <img align="center" alt="Murillo-Java" height="38" width="40" src="https://icongr.am/devicon/java-original.svg?color=currentColor">

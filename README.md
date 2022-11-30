@@ -11,21 +11,11 @@
   
   <!-- Linguagens Favorita -->
  <div style="display: inline_block"><br>
-   
-  <img align="center" alt="Murillo-HTML" height="38" width="40" src="https://icongr.am/devicon/html5-original.svg?color=currentColor">
-  <img align="center" alt="Murillo-CSS" height="38" width="40" src="https://icongr.am/devicon/css3-original.svg?color=currentColor">
-  <img align="center" alt="Murillo-JavaScript" height="38" width="40" src="https://icongr.am/devicon/javascript-original.svg?color=currentColor">
-
-  <img align="center" alt="Murillo-PHP" height="38" width="40" src="https://i.ibb.co/ykSnqMd/oie-transparent-23.png">
-  <img align="center" alt="Murillo-Nodejs" height="38" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
-  <img align="center" alt="Murillo-React" height="38" width="40"  src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
-
-  <img align="center" alt="Murillo-Python" height="38" width="40" src="https://icongr.am/devicon/python-original.svg?color=currentColor">
-  <img align="center" alt="Murillo-Ruby" height="38" width="40" src="https://icongr.am/devicon/ruby-original.svg?color=currentColor"> 
-  <img align="center" alt="Murillo-C++" height="38" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?color=currentColor">
-
-  <img align="center" alt="Murillo-Java" height="38" width="40" src="https://icongr.am/devicon/java-original.svg?color=currentColor">
-  <img align="center" alt="Murillo-Git" height="38" width="40" src="https://icongr.am/devicon/git-original.svg?color=currentColor">
+  <a href="#"><img src="https://i.ibb.co/P6HQFpt/HTML.png" width="58"  alt="HTML" border="0"></a>
+  <a href="#"><img src="https://i.ibb.co/j4NP2dN/CSS.png" width="58" alt="CSS" border="0"></a>
+  <a href="#"><img src="https://i.ibb.co/BKfT1C2/Java-Script.png" width="58" alt="Java-Script" border="0"></a>
+  <a href="#"><img src="https://i.ibb.co/pr36B98/Python.png" width="58"alt="Python" border="0"></a>
+  <a href="#"><img src="https://i.ibb.co/YtWyJVQ/Git.png" width="58 'alt="Git" border="0"></a>
  </div>
   <!-- Linguagens Favorita -->
 

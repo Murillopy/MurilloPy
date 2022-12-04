@@ -11,7 +11,7 @@
 
   <!-- Linguagens Favorita -->
  <div style="display: inline_block"><br>
-  <h1>Linguagens</h1>
+  <h1>Language</h1>
   <a href="https://github.com/MurilloPy"><img src="https://i.ibb.co/P6HQFpt/HTML.png" width="58"  alt="HTML" border="0"></a>
   <a href="https://github.com/MurilloPy"><img src="https://i.ibb.co/j4NP2dN/CSS.png" width="58" alt="CSS" border="0"></a>
   <a href="https://github.com/MurilloPy"><img src="https://i.ibb.co/BKfT1C2/Java-Script.png" width="58" alt="Java-Script" border="0"></a>
@@ -30,10 +30,10 @@
 
   <!-- Links de Rede Sociais e Email -->
  <div>
-   <a href="mailto:Murillopy@gsuiteplus.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
    <a alt="Murillo-Twitter" a href="https://twitter.com/MurilloPy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a alt="Murillo-Linkedin" a href="https://www.linkedin.com/in/murillopy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a alt="Murillo-Reddit" a href="https://www.reddit.com/u/MurilloPy?utm_medium=android_app&utm_source=share"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
+   
  <div/>
   <!-- Links de Rede Sociais e Email -->
 

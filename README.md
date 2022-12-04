@@ -14,14 +14,17 @@
   <h1>Linguagens</h1>
   <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/P6HQFpt/HTML.png" width="58"  alt="HTML" border="0"></a>
   <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/j4NP2dN/CSS.png" width="58" alt="CSS" border="0"></a>
-  <a href="#"><img src="https://i.ibb.co/BKfT1C2/Java-Script.png" width="58" alt="Java-Script" border="0"></a>
-  <a href="#"><img src="https://i.ibb.co/pr36B98/Python.png" width="58"alt="Python" border="0"></a>
+  <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/BKfT1C2/Java-Script.png" width="58" alt="Java-Script" border="0"></a>
+  <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/pr36B98/Python.png" width="58" alt="Python" border="0"></a>
+  <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/F8F1sPT/kotlin.png" width="58" alt="kotlin" border="0"></a>
   
  <h1>Tools</h1>
 <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/8NSK1xJ/bootstrap.png" width="58 alt="bootstrap" border="0"></a>
 <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/wY9LjR9/visual-studio.png" width="58" alt="visual-studio" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/YtWyJVQ/Git.png" width="58 'alt="Git" border="0"></a>
+<a href="Github.Com/Murillopy"><img src="https://i.ibb.co/YtWyJVQ/Git.png" width="58 'alt="Git" border="0"></a>
 <a href="Github.Com/Murillopy"><img src="https://i.ibb.co/HFqknym/React-icon-svg.png" width="58" alt="React-icon-svg" border="0"></a>
+<a href="Github.Com/Murillopy"><img src="https://i.ibb.co/nM1smmf/flutter.png" width="58" alt="flutter" border="0"></a>
+
  </div>
   <!-- Linguagens Favorita -->
 
